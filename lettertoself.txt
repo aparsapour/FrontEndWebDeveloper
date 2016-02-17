@@ -1,0 +1,18 @@
+To Myself from the past;
+
+Now that I am stuck in still position, I have to refresh on my past experiences in similar situations. What I have done so far to get out of the mess.
+Being calm & rational is the major mood to keep in.
+Making tests & trying to analyse the behaviour of problem is the normal practise to follow.
+Virtual trivial assumption is always the cause of no good explanation to the unexpected outcome. Trying to figure out the bugs of platform with simple test cases must be in focus.
+If possible, Monitoring the states of each steps of program run is the best process to follow.
+interfacing to new runtime environment is a good practise to bug out the codes.
+
+Looking to others experinces in the forums & googling some times help if the problem is simple enough.
+In severe cases keep an eye on the fact that no software platforms is perfact to 100%.
+
+Talking with non experts on the outcome, some times gives good hints.
+
+Allway remember that problems get frustrated & gets solved, but I have no reason to get frustrated & am able to look back to my successes.
+
+Good luck, with faith in your creator.
+Assad. Parsapour.
